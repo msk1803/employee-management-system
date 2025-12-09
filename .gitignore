@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+/client/node_modules
+/backend/node_modules
+
+# System files
+.DS_Store
+
+# Build files
+/client/build
